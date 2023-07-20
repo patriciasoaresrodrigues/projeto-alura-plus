@@ -8,7 +8,7 @@ Este projeto foi desenvolvido nos cursos da formação ["A partir do zero: HTML 
 
 ## Documentação
 
-[Figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77&mode=dev)
+- [Figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77&mode=dev)
 
 <!-- ## Documentação de cores
 
